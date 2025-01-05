@@ -47,7 +47,7 @@ Busco aplicar minha experiência e o conhecimento em dados para contribuir com p
 
 
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
